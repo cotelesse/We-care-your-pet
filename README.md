@@ -11,13 +11,13 @@
 
 <h4>This was a projetc that I did in the <a href="https://rodolfomori.com.br/devclub">DevClub</a> course</h4>
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 <h5>This projetc was used the following technologies:</h5>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-LOGO">
 
-## 📖 Projeto
+## 📖 Project
 
 <h5>follow the image of how the project finished</h5>
 <p>Web Version: </p>
